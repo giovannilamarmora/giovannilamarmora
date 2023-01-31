@@ -2,8 +2,8 @@
 <h3 align="center">A passionate Full Stack Developer from Italy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giovannilamarmora&label=Profile%20views&color=0e75b6&style=flat" alt="giovannilamarmora" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giovannilamarmora" alt="giovannilamarmora" /></a> </p>
+<br>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giovannilamarmora" alt="giovannilamarmora" /></a> </p>
 
 - 🔭 I’m currently working on [MoneyStats Application](https://github.com/MoneyStats)
 
@@ -18,9 +18,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giovannilamarmora&show_icons=true&locale=en&layout=compact" alt="giovannilamarmora" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giovannilamarmora&show_icons=true&locale=en" alt="giovannilamarmora" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giovannilamarmora&" alt="giovannilamarmora" /></p>
+<p>&nbsp;<img align="rigt" src="https://github-readme-stats.vercel.app/api?username=giovannilamarmora&show_icons=true&locale=en" alt="giovannilamarmora" /></p>
 
 
 <!--
