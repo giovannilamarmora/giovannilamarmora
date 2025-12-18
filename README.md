@@ -2,7 +2,10 @@
 <h3 align="center">A passionate Full Stack Developer from Italy</h3>
 
 # 💫 About Me:
-- 🔭 I’m currently working on [MoneyStats Application](https://github.com/MoneyStats)
+- 🔭 I’m currently working on
+- [MoneyStats Application](https://github.com/MoneyStats)
+- [Access-Sphere](https://github.com/giovannilamarmoraproject/Access-Sphere)
+- [lovelace-material-components](https://github.com/giovannilamarmora/lovelace-material-components)
 
 
 ## 🌐 Socials:
